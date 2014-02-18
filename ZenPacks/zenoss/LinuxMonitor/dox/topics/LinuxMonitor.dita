@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "urn:pubid:zenoss.com:doctypes:dita:dtd:reference" "reference.dtd">
 <reference id="referenceid">
-  <title>ZenPacks.zenoss.LinuxMonitor</title>
-  <shortdesc>This ZenPack demonstrates how to develop new plugins that collect performance data using Secure Shell.</shortdesc>
+  <title>(LinuxMonitor) Linux Monitor</title>
+  <shortdesc>The <zenpack>ZenPacks.zenoss.LinuxMonitor</zenpack> ZenPack demonstrates how 
+    to develop new plugins that collect performance data using Secure Shell.</shortdesc>
   <refbody>
     <section>
       <p>This ZenPack demonstrates the Secure Shell (SSH)
