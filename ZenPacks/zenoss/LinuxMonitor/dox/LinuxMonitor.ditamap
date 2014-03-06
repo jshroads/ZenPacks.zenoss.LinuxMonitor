@@ -2,7 +2,7 @@
 <!DOCTYPE map
   PUBLIC "urn:pubid:zenoss.com:doctypes:dita:dtd:map" "map.dtd">
 <map>
-   <title>ZenPacks.zenoss.LinuxMonitor</title>
+   <title>LinuxMonitor</title>
    <topicref href="topics/LinuxMonitor.dita">
       <topicref href="topics/prerequisites.dita"/>
       <topicref href="topics/LinuxMonitor_task-Set-Linux-Server-Monitoring-Credentials.dita"/>
